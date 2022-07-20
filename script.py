@@ -1,1 +1,1 @@
-myvariable=2
+myvariable=42
